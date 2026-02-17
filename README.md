@@ -51,3 +51,7 @@ github-activity mshandywinata 10     # shows last 10 events
 - Node.js (ES Modules)
 - GitHub Events API
 - No external dependencies
+
+## Project URL
+
+https://roadmap.sh/projects/github-user-activity
